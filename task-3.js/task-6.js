@@ -49,3 +49,5 @@ function calculateTotalPrice (array, prop) {
 // calculateTotalPrice(products, 'Захват')); // 2400
 
 // calculateTotalPrice(products, 'Дроид')); // 2800
+
+
